@@ -15,7 +15,7 @@ import math
 
 def splitter(input_string): #presumes that the list is tab-delimitted
     output_list = []
-    #insert code here
+    #insert code
     for x in input_string.split("\n")[1:]: #iterate through sample string split by "\n", skip header row
         cols = x.split("\t") #split the item by "\t"
         word = cols[0] #the first item will be the word
