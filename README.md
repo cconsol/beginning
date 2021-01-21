@@ -1,6 +1,6 @@
 # Carla H. Consolini
 
-[![N|Solid](https://i.imgur.com/9fdn7VC.png?2)](https://nodesource.com/products/nsolid)
+![N|Solid](https://i.imgur.com/9fdn7VC.png?2)
 
 [![Build Status](https://i.imgur.com/MXPTuwT.png?1)](https://www.linkedin.com/in/carla-h-consolini/)
 
