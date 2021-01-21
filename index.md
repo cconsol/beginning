@@ -21,3 +21,6 @@ Carla is currently a PhD student at the University of Oregon in the Linguistics 
   - Corpus linguistics applications for more effective teaching in the classroom 
   - Research that is readily available and accessible for language teachers around the world
 
+Here is a random quote by Tolkien that is one of my favorite in the world, and even though it has nothing to do with linguistics it has everything to do with the world:
+
+>The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.
