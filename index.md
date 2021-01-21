@@ -1,8 +1,8 @@
 # Carla H. Consolini
 
-![N|Solid](https://i.imgur.com/9fdn7VC.png?2)
+[![](https://i.imgur.com/9fdn7VC.png?2)]
 
-[![Build Status](https://i.imgur.com/MXPTuwT.png?1)](https://www.linkedin.com/in/carla-h-consolini/)
+[![](https://i.imgur.com/MXPTuwT.png?1)](https://www.linkedin.com/in/carla-h-consolini/)
 
 Carla is currently a PhD student at the University of Oregon in the Linguistics Department. Her main research interests are:
 
