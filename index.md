@@ -1,6 +1,6 @@
 # Carla H. Consolini
 
-[![](https://i.imgur.com/9fdn7VC.png?2)]
+![](https://i.imgur.com/9fdn7VC.png?2)
 
 [![](https://i.imgur.com/MXPTuwT.png?1)](https://www.linkedin.com/in/carla-h-consolini/)
 
